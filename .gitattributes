@@ -10,3 +10,6 @@ master-revoked-keyids	export-ignore
 master-revoked	export-ignore
 packager-revoked-keyids	export-ignore
 packager-revoked	export-ignore
+.github				export-ignore
+eyun-keyring.install	export-ignore
+PKGBUILD			export-ignore
